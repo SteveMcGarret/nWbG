@@ -25,7 +25,7 @@ if(isDedicated && isNil("life_market_prices")) then
 {
 	[] call life_fnc_marketConfiguration;
 	//diag_log "Market prices generated!";
-		//Start server fsm
+		//Start server fsm//
 	[] execFSM "core\fsm\server.fsm";
 	//diag_log "Server FSM executed";
 };
