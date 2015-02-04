@@ -4,7 +4,7 @@
 	Contact: bruno.marcetic@gmail.com or infiSTAR23@gmail.com // www.infiSTAR.de
 	Antihack & AdminTools - ChristianLorenzen - www.infiSTAR.de-License: (CC)
 */
-class RscTextInfi
+class RscTextInfi //Ich hasse Infistar
 {
 access=0;
 idc=-1;
@@ -100,7 +100,7 @@ border="#(argb,8,8,3)color(1,1,1,1)";
 shadow=0;
 };
 };
-class RscEditInfi
+class RscEditInfi //Meine Güte geht mir das hier auf den Sack
 {
 access=0;
 type=2;
