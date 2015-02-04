@@ -2,7 +2,7 @@
 #define __GETC__(var) (call var) //Quick clean macro for getting a value of a constant / compileFinal variable. i.e if(__GETC__(numberone) == 1) then {}
 #define __SUB__(var1,var2) var1 = var1 - var2
 
-//Control Macros
+//Control Macros v1.0
 #define getControl(disp,ctrl) ((findDisplay ##disp) displayCtrl ##ctrl)
 #define getSelData(ctrl) (lbData[##ctrl,(lbCurSel ##ctrl)])
 
