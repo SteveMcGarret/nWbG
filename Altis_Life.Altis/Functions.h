@@ -296,7 +296,7 @@ class Life_Client_Core
 		class autoSave {};
 		class fatigueReset {};
 		class emptyFuel {};
-		class ampel {}; //Ampel
+		class ampel {}; //Kavala Ampel
 		class adcflycheck {};
 		class killedTLCredits {};
 		class halo {};
