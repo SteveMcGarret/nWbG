@@ -529,7 +529,7 @@
 		<Key ID="STR_GNOTF_CreateGang">
 			<Original>You must create a gang first before capturing it!</Original>
 			<English>You must create a gang first before capturing it!</English>
-			<German>Du musst erst in einer Gang sein, um einzunehmen zu können!</German>	
+			<German>Du musst erst in einer Gang sein, um dieses Versteck einzunehmen zu können!</German>	
 			<French>Vous devez créer un gang avant de le capturer!</French>
 			<Italian>Devi creare una gang prima di catturarla!</Italian>
 			<Portuguese>Você precisa criar uma gangue antes de tentar capturar esse esconderijo!</Portuguese>
