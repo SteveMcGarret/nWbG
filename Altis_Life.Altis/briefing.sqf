@@ -35,7 +35,7 @@ player createDiaryRecord ["adac",
 	[
 	"Adac", 
 "
-- Der ADAC stelt euch das Abschleppen in Rechnung (10.000$).<br/>
+- Der ADAC stellt euch das Abschleppen in Rechnung (10.000$).<br/>
 - Das Reparieren ins Kostenlos<br/>
 - Ist die Reparatur nicht möglich kann der ADAC das Fahrzeug aus RP gründen bis Restart Beschlagnahmen<br/>
 - Der ADAC ist die einzige Fraktion die Abschleppen und beschlagnahmen darf!<br/>
