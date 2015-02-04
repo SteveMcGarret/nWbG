@@ -14,5 +14,7 @@ Server: nWbG
 
 IP: 134.255.220.130:2302
 
+Altis Life Version: 0.91
+
 
 DANKE
