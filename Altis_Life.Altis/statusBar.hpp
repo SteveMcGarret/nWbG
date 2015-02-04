@@ -24,7 +24,7 @@ class osefStatusBar {
 			size = 0.03;
 			type = 13;
 			style = 1;
-			text="Lade Server Informationen... Bitte warten";
+			text="Laden...";
 			class Attributes {
 				align="right";
 				color = "#1866c7";
