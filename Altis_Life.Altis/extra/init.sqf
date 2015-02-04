@@ -1,0 +1,1 @@
+[] spawn nok_fnc_radaron;
